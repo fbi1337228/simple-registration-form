@@ -95,7 +95,7 @@ export default function SignUpForm() {
           onChange={handleChange}
           placeholder="********"
           className="bg-[#FAFAFA] 
-          border border-gray-300 focus:border-[#00B140] rounded-[5px]focus:outline-none focus:ring-1 focus:ring-[#00B140]/30 transition-all duration-200
+          border border-gray-300 focus:border-[#00B140] rounded-[5px] focus:outline-none focus:ring-1 focus:ring-[#00B140]/30 transition-all duration-200
           mt-[13px]  
           h-[42px] 
           w-[100%] 
