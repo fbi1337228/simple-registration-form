@@ -15,10 +15,10 @@
 ## Скриншоты
 
 ### Форма входа
-![Форма входа](/public/sign-in-form.png)
+![Форма входа](/public/sign-in-form.PNG)
 
 ### Форма регистрации
-![Форма входа](/public/sign-up-form.png)
+![Форма входа](/public/sign-up-form.PNG)
 
 ## Установка и запуск
 
